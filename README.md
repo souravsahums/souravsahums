@@ -3,7 +3,7 @@
 **Data & AI Consultant @ Microsoft | Applied AI & Backend Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-sahu) 
-[![Email](https://img.shields.io/badge/Email-sahu.souravrb1999%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahu.souravrb1999@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sahu.souravrb1999%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:souravsahu@duck.com)
 
 I am an Applied AI engineer with over 3.5 years of backend Python experience specializing in building, optimizing, and shipping LLM agents to production. Currently, as a Data Scientist Consultant at Microsoft, I architect multi-agent GenAI knowledge platforms and deploy enterprise-grade agentic systems at scale.
 
@@ -46,4 +46,4 @@ My engineering focus bridges the gap between sophisticated AI models and highly 
 ### 📫 Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/sourav-sahu](https://linkedin.com/in/sourav-sahu)
-* **Email:** [sahu.souravrb1999@gmail.com](mailto:sahu.souravrb1999@gmail.com)
+* **Email:** [souravsahu@duck.com](mailto:souravsahu@duck.com)
